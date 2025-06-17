@@ -7,7 +7,7 @@ I'm a passionate developer and tech enthusiast with a deep curiosity for the lat
 
 Skills: MERN STACK / JS / HTML / CSS / PHP / JAVA / MySQL
 
-- 🔭 I’m currently working on Mint HRM 
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/it22172228)  
 
